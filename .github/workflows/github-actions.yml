@@ -1,4 +1,5 @@
-name: "${{ github.actor }} Workflow"
+name: "GitHub Actions Workflow"
+run-name: "${{ github.actor }} Workflow"
 
 on:
   pull_request:
